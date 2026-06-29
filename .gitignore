@@ -1,4 +1,4 @@
 *~
 __pycache__
 *.pyc
-quest_files
+/quest_files/
