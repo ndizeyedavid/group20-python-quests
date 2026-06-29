@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 
 def greet_adventurer():
-    print("Welcome, brave adventurer!")
+    """Return a welcome message."""
+    return "Welcome, brave adventurer!"
 
-greet_adventurer()
-greet_adventurer()
-greet_adventurer()
+
+print(greet_adventurer())
+print(greet_adventurer())
+print(greet_adventurer())
