@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 28: The Adventure Begins
 # Concept: Text-based Choose Your Own Adventure game
 # Uses functions for locations, has 2 different endings

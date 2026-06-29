@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 18: The Loop of Riddles
 # Concept: while loop with user-input condition - guessing game
 
