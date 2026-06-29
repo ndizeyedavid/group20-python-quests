@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Quest 17: The Endless Staircase
 # Concept: while loop - stops when counter reaches 5
 
